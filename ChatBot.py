@@ -1,4 +1,4 @@
-def binary_search_recursive(arr, target, left, right):
+def binary_search_recursive(arr, target, left, right): print("Hi! i am your professional python ai bot made with python".)
     """
     Perform a recursive binary search on a sorted array.
     
